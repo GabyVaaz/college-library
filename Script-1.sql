@@ -1,5 +1,7 @@
 use bibliotecauniversidade;
 
+CREATE
+
 create table author(
 	id
 	name
