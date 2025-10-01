@@ -8,4 +8,6 @@ Gabrielly da Frota Ferreira Vaz - GabyVaaz
 
 Tiago Silva Tavares de Siqueira - tiagosilva110 
 
-Este é um projeto de uma Biblioteca Virtual desenvolvido com foco em operações *CRUD (Create, Read, Update, Delete)*, s
+
+
+This is a Virtual Library Project developed with a focus on operations #CRUD (Create, Read, Update, Delete), 
