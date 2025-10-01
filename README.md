@@ -1,6 +1,8 @@
 # College Library System - UNASP 
 ----
+Group
+Professor - Leonardo Grando - proflgrando
+Gabrielly da Frota Ferreira Vaz - GabyVaaz
+Tiago Silva Tavares de Siqueira - tiagosilva110 
 
-Professor - Leonardo Grando
-Gabrielly da Frota Ferreira Vaz
-Tiago Silva Tavares de Siqueira 
+Este é um projeto de uma Biblioteca Virtual desenvolvido com foco em operações *CRUD (Create, Read, Update, Delete)*, s
